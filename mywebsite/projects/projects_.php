@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<!--
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Developer Lee Projects</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<h1>Prjects</h1>
+						<p>Still Updating...</p>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Content -->
+							<section id="content" class="main">
+								<span class="image main"><img src="images/pic04.jpg" alt="" /></span>
+								<h2><a href = 'health_index.php'>Health Web site</a></h2>
+								<p>Everyday I go gym and work out. But sometimes I think "Am I right?" So, I want to gather all information about work out and want to spread out!</p>
+								<h2><a href = './start/index.html'>MBTI Toy Project(mimic)</a></h2>
+								<p>I could find a great video that teach how to make a web site easily. I just tried to make same. It will be recreated in a few weeks!</p>
+								<h2>Side Projects</h2>
+								<ol>
+									<li></li>
+									<li></li>
+									<li></li>
+								</ol>
+							</section>
+
+					</div>
+<?php require('./php/footer.php') ?>

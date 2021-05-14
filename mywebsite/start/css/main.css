@@ -1,0 +1,10 @@
+#main{
+  background: whitesmoke;
+  width: 80%;
+  text-align: center;
+  border-radius: 20px; /*각 테두리 부드럽게 만들기*/
+}
+
+p{
+  font-size: 20px;
+}

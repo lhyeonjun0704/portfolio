@@ -1,0 +1,48 @@
+#result{
+  display: none;
+  background: whitesmoke;
+  width: 80%;
+  text-align: center;
+  border-radius: 20px; /*각 테두리 부드럽게 만들기*/
+}
+
+#shareResult{
+  background: whitesmoke;
+  width: 80%;
+  text-align: center;
+  border-radius: 20px; /*각 테두리 부드럽게 만들기*/
+}
+
+.resultName{
+  font-size: 24px;
+}
+
+.resultDesc{
+  font-size: 20px;
+}
+
+.kakao{
+  color: white;
+  background-color: #FEE500;
+  font-size: 20px;
+  border: 0px;
+  border-radius: 20px;
+}
+
+.kakao:hover, .kakao:focus {
+  background-color: whitesmoke;
+  color: #FEE500;
+}
+
+.gohome{
+  color: white;
+  background-color: pink;
+  font-size: 20px;
+  border: 0px;
+  border-radius: 20px;
+}
+
+.gohome:hover, .gohome:focus {
+  background-color: whitesmoke;
+  color: pink;
+}
