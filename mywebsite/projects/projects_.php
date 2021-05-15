@@ -31,7 +31,7 @@
 								<span class="image main"><img src="images/pic04.jpg" alt="" /></span>
 								<h2><a href = 'health_index.php'>Health Web site</a></h2>
 								<p>Everyday I go gym and work out. But sometimes I think "Am I right?" So, I want to gather all information about work out and want to spread out!</p>
-								<h2><a href = './start/index.html'>MBTI Toy Project(mimic)</a></h2>
+								<h2><a href = '../start/index.html'>MBTI Toy Project(mimic)</a></h2>
 								<p>I could find a great video that teach how to make a web site easily. I just tried to make same. It will be recreated in a few weeks!</p>
 								<h2>Side Projects</h2>
 								<ol>
