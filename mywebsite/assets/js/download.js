@@ -1,29 +1,13 @@
-var http = require('http');
-var fs = require('fs');
-const file_url = 'https://developerlee.herokuapp.com/';
+file_uri = 'https://developerlee.herokuapp.com/asset/js/';
 
-function pDownload(url, dest){
-  var file = fs.createWriteStream(dest);
-  return new Promise((resolve, reject) => {
-    var responseSent = false; // flag to make sure that response is sent only once.
-    http.get(url, response => {
-      response.pipe(file);
-      file.on('finish', () =>{
-        file.close(() => {
-          if(responseSent)  return;
-          responseSent = true;
-          resolve();
-        });
-      });
-    }).on('error', err => {
-        if(responseSent)  return;
-        responseSent = true;
-        reject(err);
-    });
-  });
+function downloadURI(uri, name) 
+{
+    var link = document.createElement("a");
+    // If you don't know the name or want to use
+    // the webserver default set name = ''
+    link.setAttribute('download', name);
+    link.href = uri;
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
 }
-
-//example
-// pDownload(url, fileLocation)
-//   .then( ()=> console.log('downloaded file no issues...'))
-//   .catch( e => console.error('error while downloading', e));
