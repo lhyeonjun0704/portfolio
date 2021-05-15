@@ -8,7 +8,7 @@
 								If you want to contact me please send an email!
 							</p>
 							<ul class="actions">
-								<li><a href="index.html" class="button">Home</a></li>
+								<li><a href="https://developerlee.herokuapp.com/" class="button">Home</a></li>
 							</ul>
 						</section>
 						<section>
