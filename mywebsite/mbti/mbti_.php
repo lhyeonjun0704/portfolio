@@ -24,7 +24,7 @@
 
 						<!-- Content -->
 							<section id="content" class="main">
-								<span class="image main"><img src="images/mbti_.png" alt="" /></span>
+								<span class="image main"><img src="../images/mbti_.png" alt="" /></span>
 								<h2>ISTP(백과사전형)</h2>
 								<p>ISTP 유형은 유연하고 관대하며 어떤 문제가 나타날 때까지는 조용히 관찰하고 있다.하지만 필요하다고 판단될 때<br />
 								실행 가능한 해결책을 찾기 위해 빠르게 움직이며, 뛰어난 효율성과 최소한의 노력으로 그 문제를 해결한다.  일상생활에서<br />

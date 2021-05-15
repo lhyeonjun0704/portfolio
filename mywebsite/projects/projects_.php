@@ -28,7 +28,7 @@
 
 						<!-- Content -->
 							<section id="content" class="main">
-								<span class="image main"><img src="images/pic04.jpg" alt="" /></span>
+								<span class="image main"><img src="../images/pic04.jpg" alt="" /></span>
 								<h2><a href = 'health_index.php'>Health Web site</a></h2>
 								<p>Everyday I go gym and work out. But sometimes I think "Am I right?" So, I want to gather all information about work out and want to spread out!</p>
 								<h2><a href = '../start/index.html'>MBTI Toy Project(mimic)</a></h2>
