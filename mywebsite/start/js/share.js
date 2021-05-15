@@ -1,4 +1,4 @@
-const url = 'https://toyprojectmimic.netlify.app/'
+const url = 'https://developerlee.herokuapp.com/start/index.html/'
 
 function setShare(){
   var resultImg = document.querySelector('#resultImg');
