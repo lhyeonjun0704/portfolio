@@ -212,6 +212,8 @@ input, select, textarea {
 
 	h2 {
 		font-size: 1.5em;
+		color: rgb(203,96,179);
+		font-weight: bold;
 	}
 
 	h3 {
