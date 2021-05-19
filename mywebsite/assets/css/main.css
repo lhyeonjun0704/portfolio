@@ -72,6 +72,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+#side_p{
+	color: rgb(203,96,179);
+	font-weight: bold;
+}
+
 /* Basic */
 
 	@-ms-viewport {
