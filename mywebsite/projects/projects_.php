@@ -29,11 +29,11 @@
 						<!-- Content -->
 							<section id="content" class="main">
 								<span class="image main"><img src="../images/pic04.jpg" alt="" /></span>
-								<h2><a href = './health_index.php' stlye='font-color: #499bea;'>Health Web site</a></h2>
+								<h2><a href = './health_index.php'>Health Web site</a></h2>
 								<p>Everyday I go gym and work out. But sometimes I think "Am I right?" So, I want to gather all information about work out and want to spread out!</p>
-								<h2><a href = '../start/index.html' stlye='font-color: #499bea;'>MBTI Toy Project(mimic)</a></h2>
+								<h2><a href = '../start/index.html'>MBTI Toy Project(mimic)</a></h2>
 								<p>I could find a great video that teach how to make a web site easily. I just tried to make same. It will be recreated in a few weeks!</p>
-								<h2 id='side_p'>Side Projects</h2>
+								<h2><a href='#'>Side Projects</a></h2>
 								<ol>
 									<li><a href='https://developerlee.herokuapp.com/projects/app-debug.apk' download>안드로이드스튜디오를 활용한 앱 만들기</a></li>
 									<li><a href='https://developerlee.herokuapp.com/projects/DACON_Jeju_credit_card_bigdata_competition-master.zip' download>제주 신용카드 빅데이터 경진대회</a></li>

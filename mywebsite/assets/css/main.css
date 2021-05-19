@@ -72,7 +72,7 @@ input, select, textarea {
 	appearance: none;
 }
 
-#side_p{
+#side_p h2{
 	color: rgb(203,96,179);
 	font-weight: bold;
 }
