@@ -201,7 +201,8 @@ input, select, textarea {
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color: rgb(203,96,179);
+			font-weight: bold;
 			text-decoration: none;
 		}
 
