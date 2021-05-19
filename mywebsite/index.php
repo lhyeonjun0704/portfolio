@@ -72,7 +72,7 @@
 								<ul class="statistics">
 									<li class="style1">
 										<span class="icon solid fa-code-branch"></span>
-										<strong>7</strong> Repository
+										<strong>8</strong> Repository
 									</li>
 									<li class="style2">
 										<!-- <span class="icon fa-folder-open"></span> -->
@@ -83,7 +83,7 @@
 									<li class="style3">
 										<!-- <i class="fas fa-language"></i> -->
 										<span class="fas fa-language fa-3x"></span>
-										<strong>2</strong> Languages
+										<strong>3</strong> Languages
 									</li>
 									<li class="style4">
 										<!-- <i class="far fa-user"></i> -->
