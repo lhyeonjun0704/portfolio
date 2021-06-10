@@ -31,8 +31,10 @@
 								<span class="image main"><img src="../images/pic04.jpg" alt="" /></span>
 								<h2><a href = './health_index.php'>Health Web site</a></h2>
 								<p>Everyday I go gym and work out. But sometimes I think "Am I right?" So, I want to gather all information about work out and want to spread out!</p>
-								<h2><a href = '../start/index.html'>MBTI Toy Project(mimic)</a></h2>
-								<p>I could find a great video that teach how to make a web site easily. I just tried to make same. It will be recreated in a few weeks!</p>
+								<h2><a href = 'kixx.herokuapp.com'>Web site Front</a></h2>
+								<p>Tool : React(+ Jquery) <br />
+								   Main Skills : Carousel, Kakaotalk Map Api<br />
+								   I'm discussing about content with the comany if it ended, I will update again!</p>
 								<h2><a href='#'>Side Projects</a></h2>
 								<ol>
 									<li><a href='https://developerlee.herokuapp.com/projects/app-debug.apk' download>안드로이드스튜디오를 활용한 앱 만들기</a></li>
