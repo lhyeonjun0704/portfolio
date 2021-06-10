@@ -30,7 +30,9 @@
 							<section id="content" class="main">
 								<span class="image main"><img src="../images/pic04.jpg" alt="" /></span>
 								<h2><a href = './health_index.php'>Health Web site</a></h2>
-								<p>Everyday I go gym and work out. But sometimes I think "Am I right?" So, I want to gather all information about work out and want to spread out!</p>
+								<p>Tool : React(+ Node.JS + MongoDB)<br />
+								   Main Skills : Carousel, Node and DB<br />
+								   I'm still making it. It will be updated soon!</p>
 								<h2><a href = 'kixx.herokuapp.com'>Web site Front</a></h2>
 								<p>Tool : React(+ Jquery) <br />
 								   Main Skills : Carousel, Kakaotalk Map Api<br />
