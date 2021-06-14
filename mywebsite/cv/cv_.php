@@ -28,7 +28,7 @@
 
 						<!-- Content -->
 							<section id="content" class="main">
-								<span class="image main"><img src="../images/pic04.jpg" alt="" /></span>
+								<span class="image main"><img src="../images/cv_img_re.jpg" alt="" /></span>
 								<h2>Self Introduction Essay</h2>
 								<p>I went to University of Central Oklahoma in USA and took some computer science lectures. I recognized differences of Computing languages and education between Korea and USA. Especially, I had not used Angular and Microsoft Azure in Korea. It made me hard to use and understand the lecture cause of new things to me, but I thought it was a great experience that broaden my sights in my life.</p>
 								<p>And then, I studied Python. I tried to code a program that predict lotto numbers by using Crawling. It made a great outcome the first week, but I found that the data is not sufficient for analyze and lotto show the characteristic of probability. So, I reckoned need of other skills or different approaches and I studied Machine Learning. Sikit-learn and Kaggle data were useful to try processing information. Then I wanted to make a project and I gathered team members. Although, having a narrow network in computer science field, I can gather team members in some open chatting of Kakaotalk. Our team participated a contest in Dacon. Our team marked high score and within 10 percent in the contest that more than 400 teams enrolled. I could experience that using Notion or Github for project.</p>

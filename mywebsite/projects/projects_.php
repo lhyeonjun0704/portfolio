@@ -28,7 +28,7 @@
 
 						<!-- Content -->
 							<section id="content" class="main">
-								<span class="image main"><img src="../images/pic04.jpg" alt="" /></span>
+								<span class="image main"><img src="../images/project_img.jpg" alt="" /></span>
 								<h2><a href = './health_index.php'>Health Web site</a></h2>
 								<p>Tool : React(+ Node.JS + MongoDB)<br />
 								   Main Skills : Carousel, Node and DB<br />
