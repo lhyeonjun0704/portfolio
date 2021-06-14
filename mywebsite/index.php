@@ -160,8 +160,18 @@
 			</div>
 
 		<!-- Scripts -->
+		<script 
+			src="https://code.jquery.com/jquery-3.6.0.min.js"
+			integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+			crossorigin="anonymous">
+			
+
+			</script>
 			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script>
+				$('#download_color').css('color', 'rgb(250, 75, 75)');
+			</script>
+			<script src="assets/js/jquery.scrollex.min.js"></>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>
 			<script src="assets/js/breakpoints.min.js"></script>

@@ -172,9 +172,7 @@ input, select, textarea {
 		color: inherit;
 	}
 
-	#download_color{
-		color:rgba(255, 74, 74, 0.25)
-	}
+	
 
 		a:hover {
 			border-bottom-color: transparent;
