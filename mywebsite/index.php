@@ -25,7 +25,8 @@
 										If you want to get more information about me, click below button!
 										</p>
 										<ul class="actions">
-											<li><a href="./cv/cv_.php" class="button">Learn More</a></li>
+											<li><a href="./cv/cv_.php" class="button">CV_Learn More</a></li>
+											<li><a href="./cv/history_.php" class="button">History_Learn More</a></li>
 										</ul>
 									</div>
 									<span class="image"><img src="images/cv_img.jpg" alt="" /></span>
@@ -96,10 +97,10 @@
 										<strong>2017.09.13</strong> Army
 									</li>
 								</ul>
-								<p class="content">Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum ac arcu sit amet, fermentum pellentesque et purus. Integer maximus varius lorem, sed convallis diam accumsan sed. Etiam porttitor placerat sapien, sed eleifend a enim pulvinar faucibus semper quis ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer eget purus nec nulla mattis et accumsan ut magna libero. Morbi auctor iaculis porttitor. Sed ut magna ac risus et hendrerit scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras eu ornare dui curabitur lacinia.</p>
+								<p class="content">8 repositories in Github. 2 Certificates(Driving, Computer Utilization Ability 2grade). 3 Languages( Korean, English, Myanmar). And I'm looking for Intern or contract work first. And I finished my army service in Special Warfare Command at 2017.09.13</p>
 								<footer class="major">
 									<ul class="actions special">
-										<li><a href='https://developerlee.herokuapp.com/form/resume_developerlee.doc' download>Download Resume</a></li>
+										<li><a href='https://developerlee.herokuapp.com/form/resume_developerlee.doc' download id='download_color'>Download Resume</a></li>
 									</ul>
 								</footer>
 							</section>

@@ -72,6 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+#download_color{
+	color: red;
+}
+
 #side_p h2{
 	color: rgb(203,96,179);
 	font-weight: bold;
