@@ -34,22 +34,11 @@
 								<p>And then, I studied Python. I tried to code a program that predict lotto numbers by using Crawling. It made a great outcome the first week, but I found that the data is not sufficient for analyze and lotto show the characteristic of probability. So, I reckoned need of other skills or different approaches and I studied Machine Learning. Sikit-learn and Kaggle data were useful to try processing information. Then I wanted to make a project and I gathered team members. Although, having a narrow network in computer science field, I can gather team members in some open chatting of Kakaotalk. Our team participated a contest in Dacon. Our team marked high score and within 10 percent in the contest that more than 400 teams enrolled. I could experience that using Notion or Github for project.</p>
 								<p>I’m still updating this self-introduction.               Latest date -2021.05.14.</p>
 								<h2>다재다능한 인재상</h2>
-								<p>대학에서 미얀마어라는 유니크한 언어를 전공으로 하고 컴퓨터공학을 복수전공을 했습니다.  
-								교과정을 이수하면서 C, JSP, Python, R 등의 많은 언어를 접해보았고 한 한학기의 어학연수과정으로 
-								미국에서 Angular와 같은 언어도 배울 수 있었고 간단하게 웹에 적용하는 실습을 해볼 수 있었습니다. <br /><br />
-								그러던 중 빅데이터 분야에 관심을 가지게되어 Python을 주언어로 하여 머신러닝이라는 AI관련 기술을 배우고 익혔습니다.  
-								간단하게는 크롤링을 시작으로 딥러닝까지 공부를 했습니다.  Kaggle이라는 전 세계 최대의 데이터 콘테스트 사이트에서 
-								타이타닉데이터셋을 이용하여 기술을 적용해 보았고 그 이후 Dacon이라는 한국최대 데이터 콘테스트 사이트에서 제주도 신용카드 
-								빅데이터 대회에 참여하여 300~400명 정도의 팀이 참여하는 대회에서 팀프로젝트를 하여 39등이라는 성과를 내기도 하였습니다.  
-								처음하는 팀 프로젝트였고 연고와 인맥이 없는 지역이기 때문에 직접 포털 사이트와 오픈채팅을 통해 팀원들을 모았습니다.  
-								처음하는 것이었기 때문에 프로젝트를 시작하기 전에 약간의 두려움과 걱정이 있었지만 팀원들 중 현업 개발자들이 있었기 때문에 
-								노션, 줌, 깃허브를 실제로 사용해 볼 수 있었고 협업을 하는데에 필요한 소스와 데이터 관련 지식들을 더 많이 알게되었습니다. <br /><br />  
-								그 이후 학교 졸업 프로젝트로 간단한 앱을 만들기 시작했습니다. 안드로이드 스튜디오를 사용하기로 했는데 처음 시도해는 분야였기 
-								때문에 서적을 구매하고 인강을 통해서 앱을 만들기 시작했습니다. 배포까지는 해보지 못했지만 스마트폰에서 
-								실행하는 것 까지는 해결을 하였습니다. 그리곤 프로젝트를 끝마치고 DB관련된 지식과 기술이 부족하다는 것을 느껴 mysql과 같은 백앤드 관련 서적을
-								 사고 인강을 통해 기술을 숙달하였습니다. 현재는 JSP, PHP, MySQL, Django 등의 언어를 사용하면서 공부를 하고 있는 중입니다. 
-								 DB라는 분야가 데이터와 밀접한 관련이 있는 분야이고 후에 빅데이터 분야를 더 쉽게 이해할 수 있는 발판이라고 느끼고 있기 때문에 
-								 Oracle이나 MongoDB 등과 같은 더 많은 DB프로그램을 배우고 실무에 적용하고 숙달 할 수 있다고 생각하였기 때문에 회사에 지원하게되었습니다. </p>
+								<p>대학 생활을 중 교환학생 프로그램을 통해 미국의 오클라호마 대학에서 컴퓨터 프로그래밍 수업을 들으면서 어떤 다른 프로그래밍 언어를 쓰는지 배울 수 있었습니다. 특히 한 번도 접하지 못했던 Angular나 Microsoft Azure 같은 것들을 접해볼 수 있었던 좋은 기회가 되었습니다.
+
+								귀국 이후는 Python을 주 언어로 선택하여 Django 나 크롤링이라는 기술을 스스로 익혀 페이지 소스를 끌어와 로또 숫자 예상 프로그램도 짜보았지만, 데이터의 양이 현저히 부족하고 확률 성이라는 특징을 강하게 띄고 있어 지속해서 맞추기 어렵다고 판단하고 다른 방향에서의 접근이나 기술이 필요하다고 느껴 기계학습 공부를 시작했습니다. Skit-Learn과 Gaggle의 타이태닉 데이터를 이용해 가공해보고 기술을 공부했고 그 이후 프로젝트를 경험해보기 위해 DACOM의 제주 신용 카드 빅데이터 예상 대회에 팀장의 역할을 맡아 직접 팀원을 모아 참여하였습니다. 컴퓨터공학이라는 분야에서 다소 저의 네트워크망이 좁았기 때문에 같이 프로젝트를 할 팀원을 모으기 쉽지 않았지만, 카카오톡의 수많은 공개채팅방을 통해서 직접 팀원을 모아 참가할 수 있었습니다. 회의를 모두 직접 모여 같이 진행할 수 있었지만, 코로나 문제로 인해 직접적인 만남을 지양했으며, 대체 방안으로 줌을 통해 수차례의 회의와 미팅을 할 수 있었습니다. 그리고 부가적으로 Notion 같은 현업에서 서로 소통하거나 기획하는 데에 큰 도움을 줄 수 있는 사이트를 알 있었고 Git hub을 팀 프로젝트에 처음으로 사용해 볼 수 있는 기회도 되었습니다.
+
+								이러한 방식으로 프로젝트를 완료하여 400팀 이상이 참여하였던 대회에서 39등이라는 좋은 성과를 낼 수 있었습니다. 첫 팀 프로젝트라 원만하게 일 처리는 어려웠지만 다른 개발자들과 소통을 통해 많은 점을 배울 수 있었으며, 개발자들 간의 네트워크망이 필요하다고 느꼈습니다. 저의 혼자만의 개발이 아닌 협업을 통해 저 자신의 틀을 깰 좋은 기회가 되었다고 느꼈습니다. </p>
 							</section>
 
 					</div>
