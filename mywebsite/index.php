@@ -100,7 +100,7 @@
 								<p class="content">8 repositories in Github.<br /> 2 Certificates(Driving, Computer Utilization Ability 2grade).<br /> 3 Languages( Korean, English, Myanmar).<br /> And I'm looking for Intern or contract work first.<br /> And I finished my army service in Special Warfare Command at 2017.09.13</p>
 								<footer class="major">
 									<ul class="actions special">
-										<li><a href='https://developerlee.herokuapp.com/form/resume_developerlee.doc' download id='download_color'>Download Resume</a></li>
+										<li><a href='https://developerlee.herokuapp.com/form/resume_developerlee.doc' download ><span id='download_color'>Download Resume</span></a></li>
 									</ul>
 								</footer>
 							</section>
