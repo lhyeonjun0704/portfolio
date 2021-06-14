@@ -72,8 +72,8 @@ input, select, textarea {
 	appearance: none;
 }
 
-.major{
-	color:#e37682;
+#download_color{
+	color:rgba(247, 131, 131, 0.25)
 }
 
 #side_p h2{
