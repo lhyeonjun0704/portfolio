@@ -28,7 +28,7 @@
 											<li><a href="./cv/cv_.php" class="button">Learn More</a></li>
 										</ul>
 									</div>
-									<span class="image"><img src="images/my_img.jpg" alt="" /></span>
+									<span class="image"><img src="images/cv_img.jpg" alt="" /></span>
 								</div>
 							</section>
 

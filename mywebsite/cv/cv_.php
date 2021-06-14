@@ -32,7 +32,7 @@
 								<h2>Self Introduction Essay</h2>
 								<p>I went to University of Central Oklahoma in USA and took some computer science lectures. I recognized differences of Computing languages and education between Korea and USA. Especially, I had not used Angular and Microsoft Azure in Korea. It made me hard to use and understand the lecture cause of new things to me, but I thought it was a great experience that broaden my sights in my life.</p>
 								<p>And then, I studied Python. I tried to code a program that predict lotto numbers by using Crawling. It made a great outcome the first week, but I found that the data is not sufficient for analyze and lotto show the characteristic of probability. So, I reckoned need of other skills or different approaches and I studied Machine Learning. Sikit-learn and Kaggle data were useful to try processing information. Then I wanted to make a project and I gathered team members. Although, having a narrow network in computer science field, I can gather team members in some open chatting of Kakaotalk. Our team participated a contest in Dacon. Our team marked high score and within 10 percent in the contest that more than 400 teams enrolled. I could experience that using Notion or Github for project.</p>
-								<p>I’m still updating this self-introduction.               Latest date -2021.05.14.</p>
+								<p>I’m still updating this self-introduction.               Latest date -2021.06.14.</p>
 								<h2>다재다능한 인재상</h2>
 								<p>대학 생활을 중 교환학생 프로그램을 통해 미국의 오클라호마 대학에서 컴퓨터 프로그래밍 수업을 들으면서 어떤 다른 프로그래밍 언어를 쓰는지 배울 수 있었습니다. 특히 한 번도 접하지 못했던 Angular나 Microsoft Azure 같은 것들을 접해볼 수 있었던 좋은 기회가 되었습니다.<br /><br />
 
