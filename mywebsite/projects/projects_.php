@@ -33,7 +33,7 @@
 								<p>Tool : React(+ Node.JS + MongoDB)<br />
 								   Main Skills : Carousel, Node and DB<br />
 								   I'm still making it. It will be updated soon!</p>
-								<h2><a href = 'kixx.herokuapp.com'>Web site Front</a></h2>
+								<h2><a href = 'https://kixx.herokuapp.com'>Web site Front</a></h2>
 								<p>Tool : React(+ Jquery) <br />
 								   Main Skills : Carousel, Kakaotalk Map Api<br />
 								   I'm discussing about content with the comany if it ended, I will update again!</p>
