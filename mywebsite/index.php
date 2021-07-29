@@ -26,7 +26,7 @@
 										</p>
 										<ul class="actions">
 											<li><a href="./cv/cv_.php" class="button">CV_Learn More</a></li>
-											<li><a href="./cv/history_.php" class="button">History_Learn More</a></li>
+											<li><a onClick=<?php echo"<script>alert(\'아직 준비중입니다.\');</script>"; ?>  class="button">History_Learn More</a></li>
 										</ul>
 									</div>
 									<span class="image"><img src="images/cv_img.jpg" alt="" /></span>
