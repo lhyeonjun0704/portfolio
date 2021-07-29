@@ -73,7 +73,7 @@
 								<ul class="statistics">
 									<li class="style1">
 										<span class="icon solid fa-code-branch"></span>
-										<strong>8</strong> Repository
+										<strong>14</strong> Repository
 									</li>
 									<li class="style2">
 										<!-- <span class="icon fa-folder-open"></span> -->
