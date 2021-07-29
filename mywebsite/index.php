@@ -26,7 +26,7 @@
 										</p>
 										<ul class="actions">
 											<li><a href="./cv/cv_.php" class="button">CV_Learn More</a></li>
-											<li><a herf='./cv/cv_history.php' class='button'>History_Learn More</a></li>
+											<li><a href='./cv/cv_history.php' class='button'>History_Learn More</a></li>
 										</ul>
 									</div>
 									<span class="image"><img src="images/cv_img.jpg" alt="" /></span>
